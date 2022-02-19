@@ -1,3 +1,5 @@
+# Permet de transmettre des données aléatoires pour un patient donné sur 1H.
+
 import pymysql.cursors
 from random import *
 import time
